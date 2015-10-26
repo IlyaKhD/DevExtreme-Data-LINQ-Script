@@ -59,7 +59,7 @@
             };
         }
         
-        return config;
+        return new DevExpress.data.CustomStore(config);
     }
 
     function loadOptionsToActionParams(options, isCountQuery) {
