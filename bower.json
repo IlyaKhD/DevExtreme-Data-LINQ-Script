@@ -1,0 +1,8 @@
+{
+  "name": "devextreme-data-linq-script",
+  "description": "Client-side script for https://github.com/DevExpress/DevExtreme-Data-LINQ",
+  "authors": [ "Developer Express Inc." ],
+  "license": "MIT",
+  "keywords": [ "DevExtreme", "LINQ", "AspNet", "MVC", "DNX" ],
+  "main": [ "dx.data.linq.js" ]
+}

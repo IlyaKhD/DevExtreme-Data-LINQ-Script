@@ -1,0 +1,16 @@
+<?xml version="1.0"?>
+<package >
+    <metadata>
+        <id>DevExtreme.Data.Linq.Script</id>
+        <version>1.0.0-beta1</version>
+        <authors>Developer Express Inc.</authors>
+        <licenseUrl>https://raw.githubusercontent.com/DevExpress/DevExtreme-Data-LINQ-Script/master/LICENSE</licenseUrl>
+        <projectUrl>https://github.com/DevExpress/DevExtreme-Data-LINQ-Script</projectUrl>
+        <description>Client-side script for https://github.com/DevExpress/DevExtreme-Data-LINQ</description>
+        <copyright>Copyright (c) Developer Express Inc.</copyright>
+        <tags>DevExtreme LINQ AspNet MVC DNX</tags>
+    </metadata>
+    <files>
+        <file src="dx.data.linq.js" target="content\net\Scripts\dx.data.linq.js" />
+    </files>
+</package>
